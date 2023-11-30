@@ -64,5 +64,3 @@ __pycache__
 *.h5
 *.pth
 *.npy
-
-*.png
